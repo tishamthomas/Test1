@@ -1,2 +1,2 @@
 # Test1
-This is a very useless repo ^_^
+This is a repo ^_^
